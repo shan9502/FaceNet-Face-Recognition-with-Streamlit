@@ -1,5 +1,5 @@
 # FaceNet-Face-Recognition-with-Streamlit
-A Face Recognition app built using simple streamlit UI, ChromaDb (act as vectore database for saved faces) and FaceNet vggface2 pretrained model
+A Face Recognition app built using simple streamlit UI, ChromaDb (act as vectore database for saving faces) and FaceNet vggface2 pretrained model
 
 
 *Setup chromaDb server in your system with the git and docker commands:

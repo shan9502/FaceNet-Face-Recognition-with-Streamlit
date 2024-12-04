@@ -78,8 +78,8 @@ async def startMonitoring():
 
         # cv2.imshow("FaceNet Recognition", frame)
         # Exit on pressing 'q'
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
+        # if cv2.waitKey(1) & 0xFF == ord('q'):
+        #     break
 
     # Release resources
     cap.release()
